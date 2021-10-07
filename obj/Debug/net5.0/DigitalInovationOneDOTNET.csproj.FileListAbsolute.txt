@@ -1,0 +1,16 @@
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\bin\Debug\net5.0\DigitalInovationOneDOTNET.exe
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\bin\Debug\net5.0\DigitalInovationOneDOTNET.deps.json
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\bin\Debug\net5.0\DigitalInovationOneDOTNET.runtimeconfig.json
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\bin\Debug\net5.0\DigitalInovationOneDOTNET.runtimeconfig.dev.json
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\bin\Debug\net5.0\DigitalInovationOneDOTNET.dll
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\bin\Debug\net5.0\ref\DigitalInovationOneDOTNET.dll
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\bin\Debug\net5.0\DigitalInovationOneDOTNET.pdb
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\obj\Debug\net5.0\DigitalInovationOneDOTNET.csproj.AssemblyReference.cache
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\obj\Debug\net5.0\DigitalInovationOneDOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\obj\Debug\net5.0\DigitalInovationOneDOTNET.AssemblyInfoInputs.cache
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\obj\Debug\net5.0\DigitalInovationOneDOTNET.AssemblyInfo.cs
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\obj\Debug\net5.0\DigitalInovationOneDOTNET.csproj.CoreCompileInputs.cache
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\obj\Debug\net5.0\DigitalInovationOneDOTNET.dll
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\obj\Debug\net5.0\ref\DigitalInovationOneDOTNET.dll
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\obj\Debug\net5.0\DigitalInovationOneDOTNET.pdb
+C:\workspace\Curso_DOTNET\DigitalInovationOneDOTNET\obj\Debug\net5.0\DigitalInovationOneDOTNET.genruntimeconfig.cache
